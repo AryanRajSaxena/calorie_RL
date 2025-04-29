@@ -1,0 +1,489 @@
+meal_name,ingredients,calories_per_serving,carbs,proteins,fats,diet_type,meal_time,serving_size,cost_per_serving_in_inr,region
+Chole Bhature,"Chickpeas, Refined Flour, Spices, Onion",450,55.0,15.0,18.0,Vegetarian,,1 plate,50.0,North Indian
+Aloo Paratha,"Wheat Flour, Potato, Spices, Butter",290,35.0,6.0,12.0,Vegetarian,,1 paratha,25.0,North Indian
+Butter Chicken,"Chicken, Butter, Cream, Tomato, Spices",490,18.0,28.0,32.0,Non-Vegetarian,dinner,1 bowl,80.0,North Indian
+Kadhi Pakora,"Besan, Curd, Spices, Onion",260,20.0,8.0,16.0,Vegetarian,,1 bowl,30.0,North Indian
+Litti Chokha,"Wheat Flour, Sattu, Brinjal, Potato, Tomato",360,50.0,10.0,12.0,Vegetarian,,3 littis with chokha,25.0,North Indian
+Samosa,"Refined Flour, Potato, Peas, Spices",150,20.0,3.0,8.0,Vegetarian,breakfast/snacks,1 piece,10.0,North Indian
+Puri Sabzi,"Wheat Flour, Potato, Spices",330,40.0,5.0,15.0,Vegetarian,,4 puris + sabzi,35.0,North Indian
+Kachori Aloo,"Refined Flour, Urad Dal, Potato, Spices",400,45.0,6.0,22.0,Vegetarian,,2 kachori + sabzi,30.0,North Indian
+Chicken Curry,"Chicken, Onion, Tomato, Spices",420,12.0,26.0,28.0,Non-Vegetarian,,1 bowl,70.0,North Indian
+Tandoori Roti,Wheat Flour,100,20.0,3.0,1.0,Vegetarian,,1 roti,8.0,North Indian
+Jeera Rice,"Basmati Rice, Cumin, Ghee",220,40.0,4.0,5.0,Vegetarian,,1 plate,20.0,North Indian
+Boondi Raita,"Curd, Boondi, Spices",150,8.0,6.0,8.0,Vegetarian,,1 bowl,15.0,North Indian
+Vegetable Pulao,"Rice, Vegetables, Spices",280,42.0,6.0,10.0,Vegetarian,,1 plate,30.0,North Indian
+Palak Paneer,"Spinach, Paneer, Onion, Tomato, Spices, Cream",320,14.0,24.0,10.0,Vegetarian,,1 bowl,100.0,North Indian
+Mutton Rogan Josh,"Mutton, Yogurt, Ginger, Garlic, Kashmiri Chili, Spices",480,28.0,38.0,8.0,Non-Vegetarian,dinner,1 bowl,180.0,North Indian
+Paneer Butter Masala,"Paneer, Tomato, Cream, Spices, Butter",400,17.0,33.0,12.0,Vegetarian,,1 bowl,110.0,North Indian
+Masoor Dal,"Red Lentils, Tomato, Onion, Garlic, Spices, Ghee",200,9.0,6.0,28.0,Vegetarian,,1 bowl,20.0,North Indian
+Chicken Biryani,"Basmati Rice, Chicken, Yogurt, Ginger, Garlic, Spices",500,24.0,22.0,45.0,Non-Vegetarian,dinner,1 plate,140.0,North Indian
+Vegetable Biryani,"Basmati Rice, Mixed Vegetables, Yogurt, Ginger, Garlic, Spices",420,9.0,15.0,55.0,Vegetarian,,1 plate,100.0,North Indian
+Besan Chilla,"Besan, Onion, Tomato, Spices, Coriander",180,7.0,5.0,20.0,Vegetarian,breakfast/snacks,2 chillas,15.0,North Indian
+Moong Dal Chilla,"Moong Dal, Onion, Tomato, Spices, Coriander",170,9.0,4.0,18.0,Vegetarian,breakfast/snacks,2 chillas,18.0,North Indian
+Methi Thepla,"Wheat Flour, Fenugreek Leaves, Spices, Yogurt",160,4.0,8.0,20.0,Vegetarian,breakfast,2 theplas,15.0,North Indian
+Gajar Halwa,"Carrots, Milk, Sugar, Ghee, Cashews, Raisins",300,5.0,18.0,30.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Haldi Doodh,"Milk, Turmeric, Ginger, Honey, Spices",180,6.0,8.0,12.0,Vegetarian,beverage,1 cup,18.0,North Indian
+Dhokla,"Besan, Semolina, Yogurt, Ginger, Green Chili",150,5.0,4.0,20.0,Vegetarian,breakfast/snacks,4 pieces,10.0,North Indian
+Machher Jhol,"Fish, Potato, Tomato, Spices",220,10.0,20.0,10.0,Non-Vegetarian,,1 bowl,60.0,North Indian
+Pork jarpaa jurpie,"Pork, Potatoes, Vegetables",300,15.0,25.0,15.0,Non-Vegetarian,,1 plate,80.0,North Indian
+Chak-Hao Kheer,"Black Rice, Milk, Sugar, Cardamom",250,30.0,5.0,10.0,Vegetarian,dessert,1 bowl,50.0,North Indian
+Achari baingan,"Eggplant, Pickling Spices, Oil",160,12.0,3.0,10.0,Vegetarian,,1 bowl,25.0,North Indian
+Aloo gobi,"Potato, Cauliflower, Spices, Onion, Tomato",150,10.0,3.0,8.0,Vegetarian,,1 bowl,20.0,North Indian
+Aloo tikki,"Potato, Spices, Breadcrumbs",120,15.0,2.0,5.0,Vegetarian,snacks,2 tikkis,15.0,North Indian
+Aloo tuk,"Potato, Spices, Oil",180,20.0,2.0,10.0,Vegetarian,,1 plate,30.0,North Indian
+Aloo matar,"Potato, Peas, Spices, Onion, Tomato",140,10.0,3.0,7.0,Vegetarian,,1 bowl,20.0,North Indian
+Aloo kulcha,"Potato, Wheat Flour, Spices, Butter",250,30.0,5.0,10.0,Vegetarian,,1 kulcha,30.0,North Indian
+Aloo methi,"Potato, Fenugreek Leaves, Spices",130,8.0,3.0,6.0,Vegetarian,,1 bowl,20.0,North Indian
+Aloo shimla mirch,"Potato, Capsicum, Spices, Onion, Tomato",140,10.0,3.0,7.0,Vegetarian,,1 bowl,20.0,North Indian
+Amriti with rabdi,"Lentil Flour, Sugar Syrup, Rabdi",350,40.0,5.0,20.0,Vegetarian,dessert,1 plate,50.0,North Indian
+Talit Macchi (Indian fish fry),"Fish, Spices, Semolina",200,5.0,20.0,10.0,Non-Vegetarian,snacks,2 pieces,70.0,North Indian
+Baati,"Wheat Flour, Ghee",200,30.0,5.0,5.0,Vegetarian,,1 baati,20.0,North Indian
+Bhindi masala,"Okra, Spices, Onion, Tomato",140,10.0,3.0,7.0,Vegetarian,,1 bowl,22.0,North Indian
+Butter chicken,"Chicken, Butter, Cream, Tomato, Spices",350,15.0,25.0,20.0,Non-Vegetarian,,1 bowl,80.0,North Indian
+Chaat,"Potato, Chickpeas, Yogurt, Spices",200,25.0,5.0,8.0,Vegetarian,snacks,1 plate,30.0,North Indian
+Chana masala,"Chickpeas, Spices, Onion, Tomato",220,30.0,10.0,5.0,Vegetarian,,1 bowl,30.0,North Indian
+Chicken razala,"Chicken, Yogurt, Poppy Seeds, Cashew Nuts",380,15.0,30.0,20.0,Non-Vegetarian,,1 bowl,90.0,North Indian
+Chicken Tikka masala,"Chicken Tikka, Tomato Sauce, Cream, Spices",350,15.0,25.0,20.0,Non-Vegetarian,,1 bowl,100.0,North Indian
+Chole bhature,"Chickpeas, Bhatura, Spices",400,40.0,15.0,20.0,Vegetarian,,1 plate,50.0,North Indian
+Daal baati churma,"Lentils, Wheat Balls, Sweetened Crushed Wheat",500,60.0,20.0,20.0,Vegetarian,,1 plate,80.0,North Indian
+Daal puri,"Lentils, Wheat Flour, Spices",200,25.0,5.0,8.0,Vegetarian,,2 puris,30.0,North Indian
+Dal makhani (kali dal),"Black Lentils, Cream, Butter, Spices",350,25.0,15.0,20.0,Vegetarian,,1 bowl,40.0,North Indian
+Dal fara,"Lentils, Rice Flour, Spices",150,20.0,5.0,3.0,Vegetarian,,2 pieces,25.0,North Indian
+Dal,"Lentils, Spices",150,20.0,10.0,3.0,Vegetarian,,1 bowl,20.0,North Indian
+Dal fry with tadka,"Lentils, Spices, Ghee",200,25.0,10.0,5.0,Vegetarian,,1 bowl,25.0,North Indian
+Dum aloo,"Potato, Spices, Yogurt",250,30.0,5.0,10.0,Vegetarian,,1 bowl,40.0,North Indian
+Poha,"Flattened Rice, Spices, Onion",200,30.0,5.0,5.0,Vegetarian,breakfast,1 plate,25.0,North Indian
+Phirni,"Rice, Milk, Sugar, Nuts",250,30.0,5.0,10.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Aloo Phalliyaan,"Potatoes, Green Beans, Spices",150,15.0,3.0,8.0,Vegetarian,,1 bowl,25.0,North Indian
+Gajar Pak,"Carrots, Milk, Sugar, Ghee",300,35.0,5.0,15.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Gatte ki Sabzi,"Gram Flour, Yogurt, Spices",220,20.0,8.0,12.0,Vegetarian,,1 bowl,35.0,North Indian
+Gajar matar aloo,"Carrots, Peas, Potato, Spices",140,10.0,3.0,7.0,Vegetarian,,1 bowl,20.0,North Indian
+Gobhi matar,"Cauliflower, Peas, Spices",130,10.0,3.0,6.0,Vegetarian,,1 bowl,20.0,North Indian
+Imarti,"Lentil Flour, Sugar Syrup",200,25.0,2.0,10.0,Vegetarian,dessert,1 piece,30.0,North Indian
+Hari mutter ka nimona,"Green Peas, Spices",150,15.0,5.0,5.0,Vegetarian,,1 bowl,25.0,North Indian
+Jalebi,"Refined Flour, Sugar Syrup",150,20.0,2.0,8.0,Vegetarian,dessert,1 piece,20.0,North Indian
+Jaleba,"Refined Flour, Sugar Syrup",200,25.0,2.0,10.0,Vegetarian,dessert,1 piece,30.0,North Indian
+Kadai paneer,"Paneer, Capsicum, Spices, Onion, Tomato",280,15.0,20.0,15.0,Vegetarian,,1 bowl,45.0,North Indian
+Kadhi pakoda,"Yogurt, Gram Flour, Spices",200,20.0,5.0,10.0,Vegetarian,,1 bowl,30.0,North Indian
+Karela bharta,"Bitter Gourd, Spices, Onion",120,10.0,3.0,5.0,Vegetarian,,1 bowl,20.0,North Indian
+Katha meetha petha / kaddu halwa,"Pumpkin, Sugar, Spices",200,25.0,2.0,10.0,Vegetarian,dessert,1 bowl,30.0,North Indian
+Kheer,"Rice, Milk, Sugar, Nuts",250,30.0,5.0,10.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Kadhi and Khichdi,"Yogurt, Gram Flour, Spices, Rice, Lentils",300,35.0,10.0,10.0,Vegetarian,,1 plate,40.0,North Indian
+Kofta,"Potato, Paneer, Spices",250,30.0,5.0,10.0,Vegetarian,,2 koftas,40.0,North Indian
+Kulfi falooda,"Milk, Sugar, Falooda, Nuts",300,35.0,5.0,15.0,Vegetarian,dessert,1 glass,50.0,North Indian
+Laapsi,"Cracked Wheat, Jaggery, Ghee",300,40.0,5.0,10.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Lauki ke kofte,"Bottle Gourd, Gram Flour, Spices",200,20.0,5.0,10.0,Vegetarian,,2 koftas,30.0,North Indian
+Lauki ki bhaaji,"Bottle Gourd, Spices",100,8.0,2.0,5.0,Vegetarian,,1 bowl,15.0,North Indian
+Litti chokha,"Wheat Flour, Sattu, Brinjal, Potato, Tomato, Spices",320,40.0,10.0,10.0,Vegetarian,,1 plate,40.0,North Indian
+Makhaan ka kheer,"Corn, Milk, Sugar",280,35.0,5.0,12.0,Vegetarian,dessert,1 bowl,50.0,North Indian
+"Makki ki roti, sarson ka saag","Corn Flour, Mustard Leaves, Spices",400,40.0,15.0,20.0,Vegetarian,,1 plate,60.0,North Indian
+Mathura ke pede,"Milk, Sugar",200,25.0,5.0,8.0,Vegetarian,dessert,2 pieces,30.0,North Indian
+"Methi saag, chaulai saag","Fenugreek Leaves, Spinach, Spices",100,8.0,2.0,5.0,Vegetarian,,1 bowl,15.0,North Indian
+Millet Lapsi,"Millet, Jaggery, Ghee",320,45.0,5.0,12.0,Vegetarian,dessert,1 bowl,45.0,North Indian
+Mirchi Bada,"Chili, Potato, Spices",150,20.0,2.0,8.0,Vegetarian,snacks,1 piece,20.0,North Indian
+Missi roti,"Gram Flour, Wheat Flour, Spices",150,20.0,5.0,3.0,Vegetarian,,1 roti,20.0,North Indian
+Mixed vegetable,"Mixed Vegetables, Spices, Onion, Tomato",150,10.0,3.0,8.0,Vegetarian,,1 bowl,25.0,North Indian
+Moong dal ki Lapsi,"Moong Dal, Jaggery, Ghee",320,45.0,5.0,12.0,Vegetarian,dessert,1 bowl,45.0,North Indian
+Murgh musallam,"Chicken, Spices, Dry Fruits",600,20.0,40.0,40.0,Non-Vegetarian,,1 whole chicken,250.0,North Indian
+Mushroom do pyaza (Kanda Khumb),"Mushroom, Onion, Spices",200,10.0,8.0,12.0,Vegetarian,,1 bowl,35.0,North Indian
+Mushroom matar (Matar Khumb),"Mushroom, Peas, Spices",180,10.0,8.0,10.0,Vegetarian,,1 bowl,30.0,North Indian
+Naan,"Refined Flour, Yeast, Butter",200,30.0,5.0,5.0,Vegetarian,,1 naan,25.0,North Indian
+Navrattan korma,"Mixed Vegetables, Dry Fruits, Cream, Spices",300,20.0,8.0,20.0,Vegetarian,,1 bowl,50.0,North Indian
+Palak paneer,"Spinach, Paneer, Spices",250,10.0,15.0,15.0,Vegetarian,,1 bowl,40.0,North Indian
+Paneer butter masala,"Paneer, Tomato, Butter, Cream, Spices",300,15.0,15.0,20.0,Vegetarian,,1 bowl,50.0,North Indian
+Paneer tikka masala,"Paneer Tikka, Tomato Sauce, Cream, Spices",350,15.0,20.0,20.0,Vegetarian,,1 bowl,60.0,North Indian
+Pani puri,"Semolina, Potato, Spices, Tamarind Water",100,15.0,2.0,3.0,Vegetarian,snacks,6 puris,15.0,North Indian
+Panjeeri,"Wheat Flour, Sugar, Ghee, Dry Fruits",300,35.0,5.0,15.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Papad,"Lentil Flour, Spices",50,10.0,2.0,1.0,Vegetarian,snacks,1 papad,5.0,North Indian
+Paratha,"Wheat Flour, Ghee",150,20.0,3.0,5.0,Vegetarian,,1 paratha,20.0,North Indian
+Pattor,"Colocasia Leaves, Gram Flour, Spices",150,15.0,3.0,8.0,Vegetarian,,2 pieces,25.0,North Indian
+Pinni,"Wheat Flour, Sugar, Ghee, Dry Fruits",350,40.0,5.0,20.0,Vegetarian,dessert,1 piece,50.0,North Indian
+Rajma chaval,"Kidney Beans, Rice",300,40.0,10.0,8.0,Vegetarian,,1 plate,40.0,North Indian
+Rajma,"Kidney Beans, Spices",200,25.0,10.0,3.0,Vegetarian,,1 bowl,30.0,North Indian
+Ramatori bhaaji,"Ramatori, Spices",80,8.0,2.0,3.0,Vegetarian,,1 bowl,15.0,North Indian
+Lobiya,"Black Eyed Peas, Spices",180,20.0,8.0,5.0,Vegetarian,,1 bowl,25.0,North Indian
+Samose,"Refined Flour, Potato, Peas, Spices",150,20.0,3.0,8.0,Vegetarian,snacks,1 samosa,10.0,North Indian
+Sattu ki roti,"Gram Flour, Wheat Flour, Spices",150,20.0,5.0,3.0,Vegetarian,,1 roti,20.0,North Indian
+Ananas menaskai,"Pineapple, Coconut, Spices",180,20.0,2.0,10.0,Vegetarian,,1 bowl,30.0,South Indian
+Aval kesari,"Flattened Rice, Sugar, Ghee, Nuts",250,30.0,5.0,10.0,Vegetarian,dessert,1 bowl,40.0,South Indian
+Baida roti,"Egg, Refined Flour",200,20.0,8.0,8.0,Non-Vegetarian,snacks,1 piece,30.0,South Indian
+Halwa,"Semolina, Sugar, Ghee, Nuts",250,30.0,5.0,10.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Bhajji,"Vegetables, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,2 pieces,15.0,North Indian
+Biryani (South Indian style),"Rice, Meat/Vegetables, Spices",450,40.0,20.0,20.0,Non-Vegetarian/Vegetarian,,1 plate,120.0,South Indian
+Bonda,"Potato, Gram Flour, Spices",120,15.0,2.0,5.0,Vegetarian,snacks,1 piece,15.0,South Indian
+Chettinadu Chicken,"Chicken, Spices",350,15.0,25.0,20.0,Non-Vegetarian,,1 bowl,100.0,South Indian
+Chicken 65,"Chicken, Spices",280,10.0,30.0,10.0,Non-Vegetarian,snacks,6 pieces,90.0,South Indian
+Dibba rotti,"Rice Flour, Jaggery",150,20.0,2.0,8.0,Vegetarian,,1 piece,20.0,South Indian
+Double ka meetha,"Bread, Milk, Sugar",350,40.0,5.0,20.0,Vegetarian,dessert,1 piece,50.0,South Indian
+Ennai kathirikkai,"Eggplant, Spices",160,12.0,3.0,10.0,Vegetarian,,1 bowl,25.0,South Indian
+Goli bajje,"Refined Flour, Yogurt, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,4 pieces,15.0,South Indian
+Golichina Mamsam,"Mutton, Spices",350,15.0,25.0,20.0,Non-Vegetarian,,1 bowl,100.0,South Indian
+Hyderabadi biryani,"Rice, Meat/Vegetables, Spices",450,40.0,20.0,20.0,Non-Vegetarian/Vegetarian,,1 plate,120.0,South Indian
+Idiyappam,Rice Flour,100,20.0,2.0,1.0,Vegetarian,breakfast,2 idiyappam,15.0,South Indian
+Indian omelette,"Egg, Onion, Spices",120,5.0,8.0,8.0,Non-Vegetarian,breakfast,1 omelette,20.0,Other
+Keerai koottu,"Spinach, Lentils, Coconut, Spices",150,15.0,5.0,5.0,Vegetarian,,1 bowl,25.0,South Indian
+Keerai poriyal,"Spinach, Coconut, Spices",100,8.0,2.0,5.0,Vegetarian,,1 bowl,15.0,South Indian
+Kerala Beef Fry,"Beef, Spices",350,15.0,25.0,20.0,Non-Vegetarian,,1 bowl,120.0,South Indian
+Kodubale,"Rice Flour, Spices",80,10.0,1.0,3.0,Vegetarian,snacks,4 pieces,15.0,South Indian
+Kolhapuri akkha masoor Dal,"Masoor Dal, Spices",200,25.0,10.0,5.0,Vegetarian,,1 bowl,30.0,North Indian
+Koottu,"Mixed Vegetables, Lentils, Coconut, Spices",150,15.0,5.0,5.0,Vegetarian,,1 bowl,25.0,South Indian
+Kori rotti,"Chicken, Rice Roti",400,40.0,20.0,20.0,Non-Vegetarian,,1 plate,150.0,South Indian
+Koshambri,"Cucumber, Lentils, Coconut, Spices",80,10.0,3.0,3.0,Vegetarian,salad,1 bowl,15.0,South Indian
+Nandu omelette,"Crab, Egg, Spices",200,5.0,15.0,12.0,Non-Vegetarian,breakfast,1 omelette,80.0,South Indian
+"Obbattu (holige, bobbattu, pooran-poli)","Lentils, Jaggery, Wheat Flour",300,35.0,5.0,15.0,Vegetarian,dessert,1 piece,40.0,South Indian
+Olan,"Pumpkin, Coconut Milk, Spices",100,10.0,2.0,5.0,Vegetarian,,1 bowl,15.0,South Indian
+Pachadi,"Vegetables, Yogurt, Spices",80,10.0,3.0,3.0,Vegetarian,side dish,1 bowl,15.0,South Indian
+Paniyaram,"Lentils, Rice Flour, Spices",100,15.0,2.0,3.0,Vegetarian,breakfast,4 pieces,20.0,South Indian
+Paddu,"Lentils, Rice Flour, Spices",100,15.0,2.0,3.0,Vegetarian,breakfast,4 pieces,20.0,South Indian
+Gujiya,"Refined flour, Dry fruits, Sugar",250,30.0,5.0,10.0,Vegetarian,dessert,2 pieces,30.0,North Indian
+Ragi mudde,Finger Millet Flour,100,20.0,3.0,1.0,Vegetarian,,1 mudde,15.0,South Indian
+Rajwadi Chhena/Paneer,Milk Solids,200,10.0,15.0,10.0,Vegetarian,,100 grams,80.0,North Indian
+Shahi tukra,"Bread, Milk, Sugar, Dry Fruits",350,40.0,5.0,20.0,Vegetarian,dessert,1 piece,50.0,North Indian
+Singhada Lapsi,"Water Chestnut Flour, Jaggery, Ghee",320,45.0,5.0,12.0,Vegetarian,dessert,1 bowl,45.0,North Indian
+Sooji halwa (Suji Lapsi),"Semolina, Sugar, Ghee, Nuts",250,30.0,5.0,10.0,Vegetarian,dessert,1 bowl,40.0,North Indian
+Sweet pethas / kesar petha / pista petha,"Pumpkin, Sugar, Saffron, Pistachio",200,25.0,2.0,10.0,Vegetarian,dessert,1 piece,30.0,North Indian
+Tamatar Chaat,"Tomato, Spices",120,15.0,2.0,5.0,Vegetarian,snacks,1 plate,20.0,North Indian
+Thali,"Rice, Lentils, Vegetables, Spices",400,40.0,15.0,15.0,Vegetarian,,1 plate,80.0,Other
+Vangi Bath,"Rice, Eggplant, Spices",300,35.0,8.0,12.0,Vegetarian,,1 plate,45.0,South Indian
+Vindaloo,"Meat, Vinegar, Spices",400,20.0,25.0,25.0,Non-Vegetarian,,1 bowl,100.0,North Indian
+Murukku,"Rice Flour, Urad Dal Flour, Spices",80,10.0,2.0,3.0,Vegetarian,snacks,4 pieces,15.0,South Indian
+Chana Jor Garam,"Black Chickpeas, Spices",100,15.0,5.0,2.0,Vegetarian,snacks,1 cup,15.0,North Indian
+Vada Pav,"Potato, Gram Flour, Spices, Pav",350,40.0,8.0,18.0,Vegetarian,,1 vada pav,30.0,North Indian
+Mirchi Bajji,"Chili, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,2 pieces,15.0,South Indian
+Sundal,"Chickpeas, Coconut, Spices",100,15.0,5.0,2.0,Vegetarian,snacks,1 bowl,15.0,South Indian
+Mysore Bonda,"Urad Dal, Rice Flour, Spices",120,15.0,3.0,3.0,Vegetarian,snacks,2 bondas,20.0,South Indian
+Ghugni Chaat,"White Peas, Onion, Spices",150,20.0,6.0,3.0,Vegetarian,snacks,1 plate,20.0,North Indian
+Banana Chips,"Banana, Oil, Salt",150,15.0,1.0,10.0,Vegetarian,snacks,1 cup,20.0,South Indian
+Golgappa,"Semolina, Potato, Spices, Tamarind Water",100,15.0,2.0,3.0,Vegetarian,snacks,6 puris,15.0,North Indian
+Pani Puri,"Semolina, Potato, Spices, Tamarind Water",100,15.0,2.0,3.0,Vegetarian,snacks,6 puris,15.0,North Indian
+Papdi Chaat,"Refined Flour, Potato, Chickpeas, Yogurt, Spices",250,30.0,5.0,10.0,Vegetarian,snacks,1 plate,30.0,North Indian
+Dahi Vada,"Lentil Fritters, Yogurt, Spices",200,25.0,8.0,8.0,Vegetarian,snacks,2 vadas,25.0,North Indian
+Onion Pakoda,"Onion, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,4 pieces,15.0,North Indian
+Bhaji,"Vegetables, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,2 pieces,15.0,North Indian
+Dal Vada,"Lentils, Spices",100,15.0,3.0,3.0,Vegetarian,snacks,2 vadas,15.0,South Indian
+Masala Vada,"Lentils, Spices",100,15.0,3.0,3.0,Vegetarian,snacks,2 vadas,15.0,South Indian
+Aloo Pakora,"Potato, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,2 pieces,15.0,North Indian
+Aloo Bajji,"Potato, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,2 pieces,15.0,South Indian
+Kanda Bhaji,"Onion, Gram Flour, Spices",100,10.0,2.0,5.0,Vegetarian,snacks,4 pieces,15.0,North Indian
+Paneer Pakora,"Paneer, Gram Flour, Spices",150,10.0,8.0,8.0,Vegetarian,snacks,2 pieces,20.0,North Indian
+Moong Dal Pakoda,"Moong Dal, Spices",100,15.0,5.0,3.0,Vegetarian,snacks,4 pieces,15.0,North Indian
+Kothimbir Vadi,"Coriander, Gram Flour, Spices",100,10.0,3.0,5.0,Vegetarian,snacks,4 pieces,15.0,North Indian
+Bread Roll,"Bread, Potato, Spices",150,20.0,4.0,5.0,Vegetarian,snacks,1 roll,20.0,North Indian
+Maddur Vada,"Rice Flour, Semolina, Onion, Spices",120,15.0,3.0,3.0,Vegetarian,snacks,2 vadas,20.0,South Indian
+Balu Shahi,"Refined flour (maida), ghee, yogurt, sugar, baking soda, cardamom",152,24.0,0.0,5.9,Veg,Snacks,1 piece (40g),20.0,North Indian
+Boondi,"Gram flour (besan), oil, sugar (for sweet version)",150,18.0,2.5,8.0,Veg,Snacks,30g,15.0,North Indian
+Gajar ka Halwa,"Carrot, milk, sugar, ghee, cardamom, dry fruits",250,32.0,4.0,12.0,Veg,Dessert,100g,40.0,North Indian
+Ghevar,"Refined flour (maida), ghee, sugar syrup, cardamom, saffron",300,45.0,3.0,12.0,Veg,Dessert,1 piece (120g),50.0,North Indian
+Gulab Jamun,"Khoya, all-purpose flour, sugar, cardamom, rose water, ghee",175,30.0,3.0,5.0,Veg,Dessert,2 pieces (80g),30.0,North Indian
+Kaju Katli,"Cashew nuts, sugar, ghee, cardamom",200,20.0,4.0,11.0,Veg,Dessert,2 pieces (40g),40.0,North Indian
+Kalakand,"Milk, sugar, cardamom, ghee",180,25.0,5.0,7.0,Veg,Dessert,50g,25.0,North Indian
+Laddu,"Gram flour, ghee, sugar, cardamom, dry fruits",160,22.0,3.0,7.0,Veg,Dessert/Snacks,1 piece (40g),15.0,North Indian
+Lassi,"Curd, sugar, cardamom, water, dry fruits",180,25.0,4.0,6.0,Veg,Beverage/Snacks,250 ml,25.0,North Indian
+Nankhatai,"All-purpose flour, sugar, ghee, cardamom, baking soda",120,14.0,1.0,6.0,Veg,Snacks,1 piece (25g),10.0,North Indian
+Petha,"Ash gourd, sugar, lime water, rose water",110,27.0,0.0,0.0,Veg,Dessert,2 pieces (60g),15.0,North Indian
+Rabri,"Milk, sugar, cardamom, saffron, dry fruits",270,25.0,6.0,16.0,Veg,Dessert,80g,30.0,North Indian
+Sheera,"Semolina, ghee, nuts, milk",250,30.0,5.0,12.0,Vegetarian,Breakfast,1 cup,30.0,Other
+Singori,"Khoa, coconut, molu leaf",180,20.0,4.0,8.0,Vegetarian,Dessert,1 piece,40.0,North Indian
+Sohan halwa,"Corn flour, ghee, dry fruits",320,40.0,6.0,16.0,Vegetarian,Dessert,1 piece,50.0,Other
+Sohan papdi,"Gram flour, ghee, sugar, milk, cardamom",280,35.0,4.0,14.0,Vegetarian,Dessert,1 piece,45.0,Other
+Chhena jalebi,"Chhena, sugar, ghee",220,25.0,5.0,12.0,Vegetarian,Dessert,1 piece,60.0,Other
+Chhena kheeri,"Chhena, sugar, milk",200,22.0,6.0,10.0,Vegetarian,Dessert,1 cup,55.0,Other
+Chhena poda,"Sugar, chenna cheese",250,30.0,7.0,12.0,Vegetarian,Dessert,1 slice,70.0,Other
+Cham cham,"Flour, cream, sugar, saffron, lemon juice, coconut flakes",280,32.0,6.0,14.0,Vegetarian,Dessert,1 piece,65.0,Other
+Kheer sagar,"Chenna, condensed milk, sugar, saffron, cardamom",240,28.0,7.0,12.0,Vegetarian,Dessert,1 cup,75.0,Other
+Ledikeni,"Chhena, sugar, ghee",230,26.0,5.0,13.0,Vegetarian,Dessert,1 piece,70.0,Other
+Lyangcha,"Flour, fried milk power, sugar syrup",260,30.0,4.0,14.0,Vegetarian,Dessert,1 piece,80.0,Other
+Malapua,"Yogurt, refined flour, ghee, fennel seeds",290,35.0,5.0,15.0,Vegetarian,Dessert,1 piece,50.0,North Indian
+Mihidana,"Besan flour, sugar, ghee",270,32.0,4.0,14.0,Vegetarian,Dessert,1 cup,60.0,Other
+Misti Doi,"Milk, jaggery",190,22.0,6.0,8.0,Vegetarian,Dessert,1 cup,40.0,Other
+Pantua,"Chhena, sugar, ghee, flour",240,28.0,5.0,13.0,Vegetarian,Dessert,1 piece,65.0,Other
+Pithe,"Rice flour, wheat flour, coconut, jaggery",220,25.0,4.0,12.0,Vegetarian,Snack,2 pieces,50.0,Other
+Rasabali,"Chenna, sweetened milk",250,30.0,6.0,13.0,Vegetarian,Dessert,1 piece,70.0,Other
+Ras Malai,"Chhena, reduced milk, pistachio",260,31.0,7.0,13.0,Vegetarian,Dessert,1 piece,80.0,Other
+Rasgulla,"Chhena, sugar, cardamom",150,20.0,4.0,6.0,Vegetarian,Dessert,2 pieces,50.0,Other
+Sandesh,"Milk, sugar, saffron, cardamom",180,22.0,5.0,8.0,Vegetarian,Dessert,2 pieces,55.0,Other
+Adhirasam,"Rice flour, jaggery, ghee, vegetable oil, elachi",240,28.0,3.0,13.0,Vegetarian,Dessert,1 piece,60.0,South Indian
+Ariselu,"Rice flour, jaggery, ghee",230,27.0,3.0,12.0,Vegetarian,Dessert,1 piece,55.0,South Indian
+Bandar Laddu,"Besan, jaggery, cardamom powder, ghee, cashews and raisins",260,30.0,5.0,14.0,Vegetarian,Dessert,1 piece,70.0,South Indian
+Chikki,"Peanuts, jaggery",200,25.0,6.0,8.0,Vegetarian,Snack,1 piece,30.0,Other
+Dharwad Pedha,"Milk, Sugar",190,23.0,4.0,9.0,Vegetarian,Dessert,1 piece,45.0,South Indian
+Double ka Meetha,"Bread, milk, sugar, ghee, cardamom",350,45.0,5.0,18.0,Vegetarian,Dessert,1 piece,45.0,South Indian
+Gavvalu,"Rice flour, jaggery, ghee",220,30.0,3.0,10.0,Vegetarian,Snack,1/2 cup,30.0,South Indian
+Kakinada Khaja,"Wheat flour, sugar, ghee",280,40.0,4.0,12.0,Vegetarian,Snack,1 piece,35.0,South Indian
+Kuzhi Paniyaram,"Lentils, rice, spices",150,20.0,5.0,5.0,Vegetarian,Breakfast,3 pieces,25.0,South Indian
+Mysore Pak,"Gram flour, ghee, sugar",380,40.0,5.0,22.0,Vegetarian,Dessert,1 piece,50.0,South Indian
+Obbattu Holige,"Wheat flour, lentils, jaggery, coconut",320,40.0,8.0,14.0,Vegetarian,Dessert,1 piece,40.0,South Indian
+Palathalikalu,"Rice flour, milk, sugar",200,25.0,4.0,8.0,Vegetarian,Dessert,1/2 cup,30.0,South Indian
+Poornalu,"Lentils, jaggery, rice flour",250,35.0,6.0,10.0,Vegetarian,Snack,2 pieces,30.0,South Indian
+Pongal,"Rice, lentils, ghee, pepper, cashews",280,35.0,7.0,12.0,Vegetarian,Breakfast,1 cup,35.0,South Indian
+Pootharekulu,"Rice flour, sugar, ghee",180,25.0,2.0,8.0,Vegetarian,Dessert,1 piece,40.0,South Indian
+Qubani ka Meetha,"Apricots, sugar, almonds",220,30.0,3.0,10.0,Vegetarian,Dessert,1/2 cup,40.0,South Indian
+Sheer Korma,"Vermicelli, milk, sugar, nuts, dates",300,35.0,8.0,14.0,Vegetarian,Dessert,1 cup,40.0,South Indian
+Unni Appam,"Rice flour, banana, jaggery, coconut",150,20.0,2.0,7.0,Vegetarian,Snack,2 pieces,30.0,South Indian
+Kajjikaya,"Wheat flour, coconut, jaggery",240,30.0,4.0,12.0,Vegetarian,Snack,1 piece,30.0,South Indian
+Anarsa,"Rice flour, jaggery, poppy seeds",230,30.0,3.0,11.0,Vegetarian,Snack,1 piece,30.0,Other
+Basundi,"Milk, sugar, cardamom, nuts",250,30.0,7.0,10.0,Vegetarian,Dessert,1 cup,35.0,Other
+Dhondas,"Cucumber, semolina, jaggery, coconut",180,25.0,3.0,7.0,Vegetarian,Snack,1 slice,30.0,South Indian
+Doodhpak,"Milk, rice, sugar, nuts",220,30.0,6.0,8.0,Vegetarian,Dessert,1 cup,30.0,Other
+Mahim Halwa,"Semolina, sugar, ghee",300,40.0,4.0,14.0,Vegetarian,Dessert,1 piece,40.0,Other
+Modak,"Rice flour, coconut, jaggery",160,20.0,3.0,8.0,Vegetarian,Snack,2 pieces,30.0,Other
+Shankarpali,"Wheat flour, sugar, ghee",200,25.0,3.0,10.0,Vegetarian,Snack,1/2 cup,30.0,Other
+Shrikhand,"Yogurt, sugar, cardamom",200,25.0,8.0,8.0,Vegetarian,Dessert,1 cup,35.0,Other
+Sutar Feni,"Wheat flour, sugar, ghee",250,35.0,3.0,12.0,Vegetarian,Breakfast,1/2 cup,35.0,Other
+Maach Jhol,"Fish, potol, tomato, chillies, ginger, garlic",280,15.0,20.0,12.0,Non-Vegetarian,Lunch,1 bowl,75.0,Other
+Pork Bharta,"Boiled pork, onions, chillies, ginger and garlic",350,10.0,25.0,22.0,Non-Vegetarian,Dinner,1 bowl,90.0,Other
+Chak Hao Kheer,"Black Rice, milk, sugar, cardamom",220,35.0,5.0,6.0,Vegetarian,Dessert,1 cup,60.0,Other
+Galho,"Rice, axone, salt, water, chillies, pork",300,40.0,15.0,10.0,Non-Vegetarian,Lunch,1 bowl,80.0,Other
+Aloo Gobi,"Cauliflower, potato, garam masala, turmeric, curry leaves",180,25.0,5.0,6.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Aloo Tikki,"Potato, spices, breadcrumbs, oil",150,20.0,3.0,7.0,Vegetarian,Snack,2 pieces,25.0,North Indian
+Aloo Matar,"Potato, peas, tomato, spices",200,30.0,5.0,7.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Aloo Methi,"Potato, fenugreek leaves, spices",160,22.0,4.0,6.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Aloo Shimla Mirch,"Potato, capsicum, spices",170,24.0,4.0,6.0,Vegetarian,Lunch,1 bowl,32.0,North Indian
+Bhatura,"Refined flour, yogurt, oil",350,45.0,7.0,15.0,Vegetarian,Breakfast,1 piece,40.0,Other
+Bhindi Masala,"Okra, onion, tomato, spices",140,15.0,4.0,7.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Biryani,"Rice, meat/vegetables, spices",450,50.0,20.0,18.0,Non-Vegetarian/Vegetarian,Dinner,1 plate,120.0,North Indian
+Chana Masala,"Chickpeas, tomato, onion, spices",320,40.0,15.0,8.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Chapati,"Wheat flour, water",100,20.0,3.0,1.0,Vegetarian,Lunch/Dinner,1 piece,10.0,North Indian
+Chicken Razala,"Chicken, yogurt, poppy seeds, spices",420,15.0,30.0,25.0,Non-Vegetarian,Dinner,1 bowl,100.0,Other
+Chicken Tikka Masala,"Chicken tikka, tomato sauce, cream, spices",480,25.0,30.0,30.0,Non-Vegetarian,Dinner,1 bowl,95.0,North Indian
+Chicken Tikka,"Chicken, yogurt, spices",250,5.0,30.0,12.0,Non-Vegetarian,Snack,2 pieces,80.0,North Indian
+Daal Baati Churma,"Lentils, wheat bread, sweet crumble",600,70.0,20.0,25.0,Vegetarian,Lunch,1 plate,60.0,North Indian
+Daal Puri,"Wheat flour, lentils, spices",250,30.0,8.0,10.0,Vegetarian,Breakfast,2 puris,30.0,Other
+Dal Tadka,"Yellow lentils, onion, tomato, spices",220,35.0,10.0,5.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Dum Aloo,"Potatoes, yogurt, spices, cream",300,20.0,10.0,20.0,Vegetarian,Lunch,1 bowl,50.0,Other
+Fara,"Rice flour, lentils, spices",220,30.0,7.0,6.0,Vegetarian,Snack,4 pieces,30.0,North Indian
+Kachori,"Refined flour, lentils, spices",320,40.0,6.0,16.0,Vegetarian,Breakfast,1 piece,35.0,North Indian
+Kadai Paneer,"Paneer, bell peppers, onion, tomato, spices",350,15.0,20.0,22.0,Vegetarian,Dinner,1 bowl,60.0,North Indian
+Kadhi Pakoda,"Yogurt, gram flour, spices, fritters",280,25.0,8.0,15.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Karela Bharta,"Bitter gourd, onion, tomato, spices",150,15.0,5.0,8.0,Vegetarian,Lunch,1 bowl,25.0,North Indian
+Kulfi Falooda,"Milk, sugar, noodles, nuts",350,40.0,8.0,18.0,Vegetarian,Dessert,1 glass,60.0,North Indian
+Shahi paneer,"Paneer, tomato, cream, cashews, spices",400,20.0,15.0,30.0,Vegetarian,Dinner,1 bowl,70.0,North Indian
+Vegetable jalfrezi,"Mixed vegetables, onion, tomato, spices",220,25.0,7.0,10.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Tandoori Fish Tikka,"Fish, yogurt, spices",200,5.0,25.0,8.0,Non-Vegetarian,Snack,4 pieces,90.0,North Indian
+Attu,"Rice flour, lentils, spices",180,25.0,6.0,5.0,Vegetarian,Breakfast,1 dosa,25.0,South Indian
+Avial,"Mixed vegetables, coconut, yogurt, curry leaves",200,20.0,8.0,10.0,Vegetarian,Lunch,1 bowl,30.0,South Indian
+Bisi bele bath,"Rice, lentils, vegetables, spices",300,35.0,10.0,12.0,Vegetarian,Lunch,1 bowl,40.0,South Indian
+Currivepillai sadam,"Rice, curry leaves, lentils, spices",250,35.0,7.0,8.0,Vegetarian,Lunch,1 plate,35.0,South Indian
+Dosa,"Rice flour, lentils",150,20.0,5.0,5.0,Vegetarian,Breakfast,1 dosa,20.0,South Indian
+Idiappam,"Rice flour, coconut milk",180,25.0,3.0,7.0,Vegetarian,Breakfast,2 pieces,25.0,South Indian
+Idli,"Rice flour, lentils",100,15.0,4.0,2.0,Vegetarian,Breakfast,2 idlis,15.0,South Indian
+Kanji,"Rice, water, spices",80,15.0,2.0,1.0,Vegetarian,Lunch,1 bowl,20.0,South Indian
+Kaara kozhambu,"Tamarind, vegetables, spices",150,15.0,5.0,7.0,Vegetarian,Lunch,1 bowl,25.0,South Indian
+Keerai kootu,"Spinach, lentils, coconut, spices",120,10.0,7.0,5.0,Vegetarian,Lunch,1 bowl,20.0,South Indian
+Keerai masiyal,"Spinach, lentils, spices",100,8.0,6.0,4.0,Vegetarian,Lunch,1 bowl,18.0,South Indian
+Keerai sadam,"Rice, spinach, spices",220,30.0,6.0,8.0,Vegetarian,Lunch,1 plate,30.0,South Indian
+Beef Fry,"Beef, onion, spices",350,10.0,25.0,22.0,Non-Vegetarian,Dinner,1 bowl,90.0,South Indian
+Kootu,"Mixed vegetables, lentils, coconut, spices",150,15.0,5.0,7.0,Vegetarian,Lunch,1 bowl,25.0,South Indian
+Kos kootu,"Cabbage, lentils, coconut, spices",120,10.0,7.0,5.0,Vegetarian,Lunch,1 bowl,20.0,South Indian
+Kothamali sadam,"Rice, coriander, lentils, spices",250,35.0,7.0,8.0,Vegetarian,Lunch,1 plate,35.0,South Indian
+Kuzhakkattai,"Rice flour, coconut, jaggery",160,20.0,3.0,8.0,Vegetarian,Snack,2 pieces,30.0,South Indian
+Kuzhambu,"Tamarind, vegetables, spices",150,15.0,5.0,7.0,Vegetarian,Lunch,1 bowl,25.0,South Indian
+Masala Dosa,"Rice flour, lentils, potato, spices",250,30.0,7.0,12.0,Vegetarian,Breakfast,1 dosa,30.0,South Indian
+Papadum,"Lentil flour, spices, oil",50,5.0,2.0,3.0,Vegetarian,Side Dish,1 piece,10.0,South Indian
+Paravannam,"Rice, milk, sugar, jaggery",220,30.0,6.0,8.0,Vegetarian,Dessert,1 cup,30.0,South Indian
+Payasam,"Milk, vermicelli, sugar, nuts",250,30.0,7.0,12.0,Vegetarian,Dessert,1 cup,35.0,South Indian
+Paruppu sadam,"Rice, lentils, ghee",200,30.0,7.0,5.0,Vegetarian,Lunch,1 plate,30.0,South Indian
+Pesarattu,"Green gram, rice flour, spices",180,25.0,6.0,5.0,Vegetarian,Breakfast,1 dosa,25.0,South Indian
+Poriyal,"Vegetables, coconut, spices",80,7.0,4.0,4.0,Vegetarian,Side Dish,1/2 cup,15.0,South Indian
+Puli sadam,"Rice, tamarind, spices",220,30.0,6.0,8.0,Vegetarian,Lunch,1 plate,30.0,South Indian
+Rasam,"Tamarind, tomato, spices",50,5.0,2.0,2.0,Vegetarian,Lunch,1 bowl,10.0,South Indian
+Puttu,"Rice flour, coconut",150,20.0,3.0,7.0,Vegetarian,Breakfast,2 pieces,25.0,South Indian
+Sambar,"Lentils, vegetables, tamarind, spices",120,10.0,7.0,5.0,Vegetarian,Lunch,1 bowl,20.0,South Indian
+Sandige,"Rice flour, spices",40,5.0,1.0,2.0,Vegetarian,Snack,2 pieces,10.0,South Indian
+Sevai,"Rice noodles, coconut, spices",200,25.0,4.0,8.0,Vegetarian,Breakfast,1 cup,30.0,South Indian
+Thayir sadam,"Rice, yogurt, milk",150,20.0,5.0,5.0,Vegetarian,Lunch,1 plate,20.0,South Indian
+Theeyal,"Mixed vegetables, roasted coconut, spices",220,20.0,8.0,12.0,Vegetarian,Lunch,1 bowl,35.0,South Indian
+Uttapam,"Rice flour, lentils, vegetables, spices",200,25.0,7.0,8.0,Vegetarian,Breakfast,1 uttapam,30.0,South Indian
+Vada,"Lentils, spices",150,15.0,5.0,7.0,Vegetarian,Snack,2 pieces,25.0,South Indian
+Chicken Varuval,"Chicken, onion, spices",300,10.0,25.0,18.0,Non-Vegetarian,Dinner,1 bowl,80.0,South Indian
+Upma,"Semolina, vegetables, spices",200,30.0,6.0,5.0,Vegetarian,Breakfast,1 bowl,30.0,South Indian
+Amti,"Lentils, tamarind, spices",100,10.0,6.0,2.0,Vegetarian,Lunch,1 bowl,20.0,Other
+Zunka,"Gram flour, onion, spices",120,15.0,5.0,3.0,Vegetarian,Lunch,1 bowl,20.0,Other
+Kolim Jawla,"Shrimp, onion, spices",180,10.0,10.0,10.0,Non-Vegetarian,Lunch,1 bowl,40.0,Other
+Saath,"Rice flour, spices",150,20.0,3.0,7.0,Vegetarian,Snack,1 piece,25.0,Other
+Bajri no rotlo,Pearl millet flour,120,20.0,4.0,2.0,Vegetarian,Lunch,1 rotlo,15.0,Other
+Coconut vadi,"Coconut, sugar",180,25.0,2.0,8.0,Vegetarian,Dessert,1 piece,30.0,Other
+Bhakri,Jowar/Bajra/Rice flour,100,15.0,3.0,1.0,Vegetarian,Lunch/Dinner,1 bhakri,15.0,Other
+Bombil fry,"Bombay Duck, spices",150,5.0,10.0,8.0,Non-Vegetarian,Snack,2 pieces,40.0,Other
+Chakali,"Rice flour, lentils, spices",180,20.0,4.0,9.0,Vegetarian,Snack,4 pieces,30.0,Other
+Chevdo,"Flattened rice, nuts, spices",200,25.0,4.0,10.0,Vegetarian,Snack,1/2 cup,35.0,Other
+Chorafali,"Gram flour, spices",150,15.0,6.0,6.0,Vegetarian,Snack,1/2 cup,30.0,Other
+Copra paak,"Coconut, sugar",200,30.0,2.0,8.0,Vegetarian,Dessert,1 piece,30.0,Other
+Daal Dhokli,"Wheat flour, lentils, spices",250,30.0,8.0,10.0,Vegetarian,Lunch,1 bowl,35.0,Other
+Kutchi dabeli,"Potato, spices, bread",220,25.0,5.0,10.0,Vegetarian,Snack,1 dabeli,30.0,Other
+Dahi vada,"Lentil fritters, yogurt, spices",220,24.0,8.0,8.0,Vegetarian,Snack,2 pieces,25.0,North Indian
+Dalithoy,"Lentils, coconut, spices",120,10.0,7.0,5.0,Vegetarian,Lunch,1 bowl,20.0,South Indian
+Dudhi halwa,"Bottle gourd, milk, sugar, ghee",200,30.0,4.0,8.0,Vegetarian,Dessert,1 bowl,30.0,Other
+Gatta curry,"Gram flour, yogurt, spices",280,25.0,10.0,15.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Gud papdi,"Gram flour, ghee, sugar",300,35.0,5.0,16.0,Vegetarian,Dessert,1 piece,45.0,Other
+Ghooghra,"Wheat flour, coconut, jaggery, spices",250,30.0,4.0,12.0,Vegetarian,Snack,1 piece,35.0,Other
+Handwo,"Lentils, rice, vegetables, spices",220,30.0,7.0,6.0,Vegetarian,Breakfast,1 slice,30.0,Other
+Halvasan,"Wheat flour, milk, sugar, ghee",320,40.0,6.0,16.0,Vegetarian,Dessert,1 piece,50.0,Other
+Jeera Aloo,"Potato, cumin seeds, spices",150,20.0,3.0,7.0,Vegetarian,Side Dish,1 bowl,25.0,North Indian
+Kansar,"Wheat flour, ghee, jaggery",350,45.0,5.0,18.0,Vegetarian,Dessert,1 bowl,50.0,Other
+Keri no ras,"Mango, sugar, milk",180,25.0,2.0,8.0,Vegetarian,Dessert,1 bowl,30.0,Other
+Khakhra,"Wheat flour, spices",80,15.0,2.0,1.0,Vegetarian,Snack,1 piece,15.0,Other
+Khandvi,"Gram flour, yogurt, spices",150,20.0,6.0,4.0,Vegetarian,Snack,4 pieces,30.0,Other
+Kombdi vade,"Chicken, rice flour, spices",350,20.0,20.0,20.0,Non-Vegetarian,Lunch,1 plate,90.0,Other
+Koshimbir,"Cucumber, lentils, coconut, coriander, lemon",120,10.0,6.0,6.0,Vegetarian,Side Dish,1/2 cup,25.0,Other
+Methi na Gota,"Gram flour, fenugreek leaves, spices",180,20.0,6.0,8.0,Vegetarian,Snack,4 pieces,30.0,Other
+Mohanthal,"Gram flour, sugar, ghee",320,40.0,6.0,16.0,Vegetarian,Dessert,1 piece,50.0,Other
+Muthiya,"Gram flour, bottle gourd, spices",150,20.0,5.0,5.0,Vegetarian,Snack,4 pieces,25.0,Other
+Patra,"Colocasia leaves, gram flour, spices",180,20.0,6.0,8.0,Vegetarian,Snack,4 pieces,30.0,Other
+Pav Bhaji,"Potato, mixed vegetables, butter, pav",400,45.0,9.0,20.0,Vegetarian,Dinner,1 plate,40.0,Other
+Puri Bhaji,"Wheat flour, potato, spices",330,40.0,5.0,15.0,Vegetarian,Breakfast,4 puris + sabzi,35.0,North Indian
+Sabudana Khichadi,"Sago, potato, peanuts, spices",250,30.0,4.0,12.0,Vegetarian,Snack,1 bowl,30.0,Other
+Sev khamani,"Gram flour, sev, spices",200,25.0,8.0,8.0,Vegetarian,Snack,1 bowl,35.0,Other
+Sev tameta,"Tomato, sev, spices",150,15.0,5.0,7.0,Vegetarian,Lunch,1 bowl,25.0,Other
+Namakpara,"Wheat flour, semolina, spices, oil",200,25.0,4.0,10.0,Vegetarian,Snack,1/2 cup,25.0,North Indian
+Sukhdi,"Wheat flour, ghee, jaggery",300,40.0,5.0,14.0,Vegetarian,Dessert,1 piece,40.0,Other
+Surnoli,"Rice flour, coconut milk, jaggery",180,25.0,3.0,7.0,Vegetarian,Breakfast,1 piece,30.0,South Indian
+Thalipeeth,"Mixed flour, onion, spices",220,30.0,7.0,6.0,Vegetarian,Breakfast,1 thalipeeth,30.0,Other
+Undhiyu,"Mixed vegetables, spices, herbs",250,30.0,8.0,10.0,Vegetarian,Lunch,1 bowl,40.0,Other
+Veg Kolhapuri,"Mixed vegetables, Kolhapuri masala",200,25.0,7.0,8.0,Vegetarian,Lunch,1 bowl,35.0,Other
+Lilva Kachori,"Pigeon peas, spices, refined flour",220,25.0,6.0,10.0,Vegetarian,Snack,1 piece,30.0,Other
+Mag Dhokli,"Wheat flour, lentils, spices",200,25.0,7.0,5.0,Vegetarian,Lunch,1 bowl,30.0,Other
+Khichu,"Rice flour, spices",150,20.0,3.0,7.0,Vegetarian,Snack,1 bowl,25.0,Other
+Thepla,"Wheat flour, fenugreek leaves, spices",160,20.0,4.0,7.0,Vegetarian,Breakfast,1 thepla,25.0,Other
+Farsi Puri,"Refined flour, spices",180,20.0,3.0,9.0,Vegetarian,Snack,2 puris,30.0,Other
+Khaman,"Gram flour, spices",150,22.0,6.0,4.0,Vegetarian,Breakfast,2 pieces,20.0,Other
+Turiya Patra,"Ridge gourd, gram flour, spices",160,20.0,5.0,6.0,Vegetarian,Lunch,1 bowl,30.0,Other
+Vatana sabji,"Green peas, spices",120,15.0,5.0,3.0,Vegetarian,Lunch,1 bowl,20.0,Other
+Churma Ladoo,"Wheat flour, ghee, jaggery",300,40.0,5.0,14.0,Vegetarian,Dessert,1 piece,45.0,North Indian
+Cheera Doi,"Flattened rice, yogurt, sugar/jaggery",200,30.0,6.0,5.0,Vegetarian,Breakfast,1 bowl,30.0,Other
+Gheela Pitha,"Rice flour, jaggery",180,25.0,3.0,7.0,Vegetarian,Snack,2 pieces,25.0,Other
+Khar,"Vegetables, banana peel ash",100,10.0,2.0,2.0,Vegetarian,Lunch,1 bowl,20.0,Other
+Kumol Sawul,Rice,80,15.0,2.0,1.0,Vegetarian,Lunch,1 plate,15.0,Other
+Luchi,"Refined flour, oil",120,15.0,2.0,5.0,Vegetarian,Breakfast,2 luchis,20.0,Other
+Alu Pitika,"Potato, onion, coriander, mustard oil",100,15.0,2.0,3.0,Vegetarian,Side Dish,1/2 cup,18.0,Other
+Masor tenga,"Fish, lemon, tomato, spices",150,10.0,15.0,5.0,Non-Vegetarian,Lunch,1 bowl,35.0,Other
+Bengena Pitika,"Eggplant, onion, coriander, mustard oil",90,8.0,1.0,6.0,Vegetarian,Side Dish,1/2 cup,15.0,Other
+Black rice,"Black rice, water",160,34.0,4.0,1.0,Vegetarian,Lunch,1 cup cooked,40.0,Other
+Bora Sawul,Sticky rice,170,37.0,3.0,1.0,Vegetarian,Breakfast,1 cup,35.0,Other
+Chingri malai curry,"Prawns, coconut milk, spices",350,15.0,20.0,22.0,Non-Vegetarian,Dinner,1 bowl,90.0,Other
+Goja,"Wheat flour, jaggery",200,30.0,4.0,7.0,Vegetarian,Snack,2 pieces,30.0,Other
+Hando Guri,"Rice flour, jaggery",180,25.0,3.0,7.0,Vegetarian,Snack,2 pieces,25.0,Other
+Haq Maas,"Mutton, spices",400,10.0,30.0,28.0,Non-Vegetarian,Dinner,1 bowl,120.0,Other
+Chingri Bhape,"Prawns, mustard paste, coconut, spices",280,10.0,20.0,18.0,Non-Vegetarian,Lunch,1 bowl,80.0,Other
+Kabiraji,"Chicken/fish, egg, breadcrumbs",300,15.0,18.0,18.0,Non-Vegetarian,Snack,1 piece,70.0,Other
+Khorisa,Fermented bamboo shoot,50,8.0,2.0,1.0,Vegetarian,Side Dish,1/4 cup,15.0,Other
+Koldil Chicken,"Chicken, banana flower, spices",250,10.0,20.0,15.0,Non-Vegetarian,Lunch,1 bowl,75.0,Other
+Konir Dom,"Eggs, potatoes, spices",200,10.0,12.0,12.0,Non-Vegetarian,Lunch,"2 eggs, 1 potato",40.0,Other
+Koldil Duck,"Duck, banana flower, spices",300,10.0,25.0,20.0,Non-Vegetarian,Lunch,1 bowl,90.0,Other
+Masor Koni,"Fish, eggs, spices",220,8.0,18.0,12.0,Non-Vegetarian,Lunch,"1 fish, 1 egg",50.0,Other
+Mishti Chholar Dal,"Chana dal, coconut, sugar, spices",220,30.0,8.0,6.0,Vegetarian,Lunch,1 bowl,35.0,Other
+Pakhala,"Rice, water, yogurt",150,25.0,3.0,2.0,Vegetarian,Lunch,1 bowl,20.0,Other
+Pani Pitha,"Rice flour, jaggery, oil",150,20.0,2.0,7.0,Vegetarian,Snack,2 pieces,25.0,Other
+Payokh,"Rice, milk, sugar, cardamom",200,30.0,5.0,7.0,Vegetarian,Dessert,1 bowl,30.0,Other
+Prawn malai curry,"Prawns, coconut milk, spices",350,15.0,20.0,22.0,Non-Vegetarian,Dinner,1 bowl,90.0,Other
+Red Rice,"Red rice, water",210,42.0,5.0,1.0,Vegetarian,Lunch,1 cup cooked,30.0,South Indian
+Shukto,"Mixed vegetables, mustard paste, spices",180,15.0,5.0,10.0,Vegetarian,Lunch,1 bowl,30.0,Other
+Til Pitha,"Rice flour, sesame seeds, jaggery",200,25.0,4.0,10.0,Vegetarian,Breakfast,2 pieces,30.0,Other
+Bebinca,"Flour, coconut milk, sugar, eggs, ghee",350,40.0,5.0,20.0,Vegetarian,Dessert,1 slice,50.0,South Indian
+Shufta,"Dried fruits, nuts, spices, ghee",300,35.0,7.0,15.0,Vegetarian,Dessert,1 bowl,60.0,Other
+Mawa Bati,"Mawa, flour, sugar, nuts, cardamom",250,30.0,5.0,12.0,Vegetarian,Dessert,1 piece,40.0,North Indian
+Pinaca,"Jaggery, nuts, grated coconut, rice powder and cardamom",220,30.0,6.0,8.0,Vegetarian,Dessert,1 piece,30.0,South Indian
+Paneer Butter Masala with Jeera Rice,"Paneer, Tomato, Cream, Spices, Rice, Cumin, Ghee",550,50.0,20.0,30.0,Vegetarian,Dinner,1 bowl + 1 plate,90.0,North Indian
+Rajma Chawal,"Kidney Beans, Rice, Tomato, Onion, Garlic, Spices",385,60.0,12.0,8.0,Vegetarian,Lunch,1 medium plate,40.0,North Indian
+Hyderabadi Biryani,"Rice, meat/vegetables, spices",450,50.0,20.0,18.0,Non-Vegetarian/Vegetarian,Dinner,1 plate,120.0,South Indian
+Masoor Dal Tadka with Basmati Rice,"Red Lentils, Onion, Tomato, Spices, Rice",400,50.0,15.0,10.0,Vegetarian,Lunch,1 bowl + 1 plate,50.0,North Indian
+Aloo Paratha with Curd,"Wheat Flour, Potato, Spices, Butter, Yogurt",350,40.0,8.0,15.0,Vegetarian,Breakfast,1 paratha + 1 bowl,40.0,North Indian
+Vegetable Pulao with Raita,"Rice, Vegetables, Spices, Yogurt",350,45.0,8.0,12.0,Vegetarian,Lunch,1 plate + 1 bowl,40.0,North Indian
+Egg Curry,"Eggs, Onion, Tomato, Spices",320,10.0,20.0,20.0,Non-Vegetarian,Lunch,1 bowl,50.0,North Indian
+Paneer Kathi Roll,"Paneer, Wheat Flour, Vegetables, Spices",300,30.0,12.0,14.0,Vegetarian,Snack,1 roll,40.0,North Indian
+Paneer Paratha,"Wheat Flour, Paneer, Spices, Butter",320,38.0,10.0,14.0,Vegetarian,Breakfast,1 paratha,40.0,North Indian
+Khichdi,"Rice, Lentils, Vegetables, Spices",250,35.0,10.0,5.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Bhindi Do Pyaza,"Okra, Onion, Spices",160,20.0,5.0,6.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Masala Bhindi,"Okra, Spices",140,15.0,4.0,7.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Chana Kulcha,"Chickpeas, Refined Flour, Spices",400,50.0,15.0,15.0,Vegetarian,Lunch,1 plate,50.0,Other
+Shahi Egg Curry,"Eggs, Onion, Tomato, Spices, Cream",350,12.0,22.0,22.0,Non-Vegetarian,Dinner,1 bowl,60.0,North Indian
+Dal Makhani,"Black Lentils, Cream, Butter, Spices",350,25.0,15.0,20.0,Vegetarian,Dinner,1 bowl,60.0,Other
+Punjabi Dal Tadka,"Yellow Lentils, Onion, Tomato, Spices",220,35.0,10.0,5.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Kashmiri Rajma,"Kidney Beans, Spices",300,40.0,15.0,8.0,Vegetarian,Lunch,1 bowl,45.0,Other
+Paneer Tamatar Ki Subzi,"Paneer, Tomato, Spices",320,15.0,18.0,20.0,Vegetarian,Lunch,1 bowl,50.0,North Indian
+Kashmiri Paneer,"Paneer, Spices",350,15.0,20.0,22.0,Vegetarian,Dinner,1 bowl,60.0,Other
+Paneer Pulao,"Rice, Paneer, Vegetables, Spices",300,40.0,10.0,10.0,Vegetarian,Lunch,1 plate,40.0,North Indian
+Tawa Pulao,"Rice, Vegetables, Spices",280,40.0,6.0,10.0,Vegetarian,Lunch,1 plate,35.0,Other
+Aloo Fry,"Potato, Spices",150,20.0,3.0,7.0,Vegetarian,Side Dish,1 bowl,25.0,South Indian
+Raw Banana Methi Subzi,"Raw Banana, Fenugreek Leaves, Spices",160,22.0,4.0,6.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+French Beans and Carrot Thoran,"French Beans, Carrot, Coconut, Mustard Seeds, Curry Leaves",150,15.0,5.0,8.0,Vegetarian,Lunch,1 cup,30.0,South Indian
+Pau Bhaji,"Potato, Mixed Vegetables, Butter, Pav",420,45.0,9.0,20.0,Vegetarian,Dinner,1 plate,40.0,Other
+Paneer Fishcakes with Chutney,"Paneer, Potatoes, Spices, Breadcrumbs, Mint Chutney",280,20.0,12.0,16.0,Vegetarian,Snack,2 fishcakes,50.0,North Indian
+Indian Spiced Pizza,"Pizza Base, Tomato Sauce, Paneer/Chicken, Vegetables, Spices",350,35.0,15.0,15.0,Vegetarian/Non-Vegetarian,Dinner,1 slice,60.0,North Indian
+Cardamom Chicken,"Chicken, Cardamom, Yogurt, Spices",320,10.0,25.0,20.0,Non-Vegetarian,Dinner,1 bowl,80.0,North Indian
+Gullfrazie Chicken and Cashew Nut Curry,"Chicken, Cashew Nuts, Onion, Tomato, Spices",400,15.0,30.0,25.0,Non-Vegetarian,Dinner,1 bowl,90.0,North Indian
+Spinach and Paneer Koftas,"Spinach, Paneer, Potato, Spices, Cream",300,20.0,10.0,20.0,Vegetarian,Dinner,4 koftas,60.0,North Indian
+Achaari Salmon Wraps,"Salmon, Pickling Spices, Yogurt, Wheat Tortilla",350,30.0,20.0,18.0,Non-Vegetarian,Lunch,1 wrap,70.0,North Indian
+Basmati Rice Pilaf with Apricots,"Basmati Rice, Apricots, Spices, Nuts",250,40.0,5.0,8.0,Vegetarian,Lunch,1 plate,40.0,North Indian
+Slow Cooker Chicken Curry,"Chicken, Onion, Tomato, Spices",300,10.0,25.0,18.0,Non-Vegetarian,Dinner,1 bowl,70.0,North Indian
+Paneer Pakoras,"Paneer, Gram Flour, Spices, Oil",250,20.0,12.0,15.0,Vegetarian,Snack,4 pieces,40.0,North Indian
+Sprouts Salad,"Mixed Sprouts, Onion, Tomato, Cucumber, Lemon Juice",150,20.0,8.0,4.0,Vegetarian,Snack,1 bowl,30.0,North Indian
+Gujarati Kadhi,"Yogurt, Gram Flour, Spices, Jaggery",180,20.0,6.0,8.0,Vegetarian,Lunch,1 bowl,30.0,Other
+Brown Rice Bowl with Curried Roasted Cauliflower,"Brown Rice, Cauliflower, Curry Powder, Spices",300,40.0,10.0,10.0,Vegetarian,Lunch,1 bowl,50.0,North Indian
+Curried Chicken Salad,"Chicken, Yogurt, Curry Powder, Spices, Celery, Onion",320,15.0,25.0,18.0,Non-Vegetarian,Lunch,1 bowl,60.0,North Indian
+Lobster Rolls with Curry Mayonnaise,"Lobster Meat, Curry Powder, Mayonnaise, Bread Rolls",400,30.0,20.0,25.0,Non-Vegetarian,Lunch,1 roll,80.0,North Indian
+Crab and Coconut Samosas,"Crab Meat, Coconut, Spices, Refined Flour",280,25.0,8.0,15.0,Non-Vegetarian,Snack,2 samosas,50.0,South Indian
+Onion Bhajis,"Onion, Gram Flour, Spices, Oil",200,20.0,6.0,10.0,Vegetarian,Snack,4 bhajis,30.0,Other
+Daal,"Lentils, Spices",200,30.0,12.0,5.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Daal Fry,"Lentils, Onion, Tomato, Spices",220,35.0,10.0,5.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Moong Dal Khichdi,"Moong Dal, Rice, Spices, Vegetables",250,35.0,10.0,5.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Baingan Bharta,"Eggplant, Onion, Tomato, Spices",180,15.0,4.0,10.0,Vegetarian,Lunch,1 bowl,20.0,North Indian
+Mix Veg Curry,"Mixed Vegetables, Onion, Tomato, Spices",200,25.0,7.0,8.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Lauki Kofta Curry,"Bottle Gourd, Gram Flour, Onion, Tomato, Spices",250,20.0,8.0,15.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Methi Thepla (with curd),"Wheat Flour, Fenugreek Leaves, Spices, Yogurt",280,30.0,8.0,14.0,Vegetarian,Breakfast,1 thepla + 1 bowl,40.0,Other
+Stuffed Capsicum,"Capsicum, Potato, Spices, Onion",200,25.0,5.0,8.0,Vegetarian,Lunch,1 capsicum,35.0,North Indian
+Gajar ka Halwa (as dessert),"Carrot, Milk, Sugar, Ghee, Cashews, Raisins",300,45.0,6.0,10.0,Vegetarian,Dessert,1 bowl,40.0,North Indian
+Spinach Moong Dal Cheela,"Spinach, Moong Dal, Spices",180,20.0,9.0,4.0,Vegetarian,Breakfast,1 cheela,30.0,North Indian
+Protein Shake,"Protein Powder, Milk/Yogurt, Fruits, Nuts",250,20.0,25.0,8.0,Vegetarian,Breakfast/Snack,1 glass,50.0,North Indian
+Papaya Multigrain Roti,"Papaya, Multigrain Flour, Spices",220,30.0,7.0,6.0,Vegetarian,Breakfast,1 roti,30.0,North Indian
+Fish Curry,"Fish, Onion, Tomato, Spices",280,10.0,20.0,18.0,Non-Vegetarian,Lunch,1 bowl,70.0,South Indian
+Greek Salad,"Cucumber, Tomato, Onion, Olives, Feta Cheese, Olive Oil",200,15.0,8.0,12.0,Vegetarian,Lunch,1 bowl,40.0,Other
+Mushroom Matar Paneer Curry,"Mushroom, Peas, Paneer, Onion, Tomato, Spices",320,15.0,18.0,20.0,Vegetarian,Dinner,1 bowl,55.0,North Indian
+Tofu Vegetable Salad,"Tofu, Mixed Vegetables, Lettuce, Olive Oil, Lemon Juice",180,15.0,10.0,8.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Overnight Oats Berries Bowl,"Oats, Milk/Yogurt, Berries, Nuts, Seeds",220,30.0,8.0,8.0,Vegetarian,Breakfast,1 bowl,40.0,North Indian
+Seasonal Fruit,Assorted Seasonal Fruits,100,25.0,1.0,0.0,Vegetarian,Snack,1 bowl,25.0,North Indian
+Brown Rice,"Brown Rice, Water",220,45.0,5.0,2.0,Vegetarian,Lunch,1 cup cooked,30.0,North Indian
+Lauki Chana Dal,"Bottle Gourd, Chana Dal, Spices",200,25.0,8.0,5.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Egg Curry (Anda Curry),"Eggs, Onion, Tomato, Spices",320,10.0,20.0,20.0,Non-Vegetarian,Lunch,1 bowl,50.0,North Indian
+Chana Salad,"Chickpeas, Onion, Tomato, Cucumber, Lemon Juice",180,25.0,10.0,4.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Quinoa Vegetable Khichdi,"Quinoa, Vegetables, Lentils, Spices",280,35.0,12.0,8.0,Vegetarian,Lunch,1 bowl,45.0,North Indian
+Shahi Paneer,"Paneer, Tomato, Cream, Cashews, Spices",400,20.0,15.0,30.0,Vegetarian,Dinner,1 bowl,70.0,North Indian
+Vegetable Salad,"Mixed Vegetables, Lettuce, Olive Oil, Lemon Juice",150,15.0,5.0,7.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Boiled Eggs,Eggs,70,1.0,6.0,5.0,Non-Vegetarian,Breakfast/Snack,2 eggs,20.0,North Indian
+Steamed Vegetables,Assorted Steamed Vegetables,100,15.0,5.0,2.0,Vegetarian,Lunch,1 bowl,25.0,North Indian
+Lemon Gravy Chicken,"Chicken, Lemon, Spices",280,8.0,25.0,15.0,Non-Vegetarian,Dinner,1 bowl,60.0,North Indian
+Greek Yogurt,Greek Yogurt,150,7.0,20.0,4.0,Vegetarian,Breakfast/Snack,1 cup,40.0,North Indian
+Tofu Curry,"Tofu, Onion, Tomato, Spices",220,15.0,12.0,10.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Apple Peanut Butter Smoothie (with Whey Protein),"Apple, Peanut Butter, Whey Protein, Milk/Yogurt",350,30.0,30.0,15.0,Vegetarian,Breakfast,1 glass,60.0,North Indian
+Multigrain Chapati,"Multigrain Flour, Water, Oil",120,22.0,4.0,2.0,Vegetarian,Lunch/Dinner,1 chapati,15.0,North Indian
+Egg Bhurji,"Eggs, Onion, Tomato, Spices",180,5.0,12.0,12.0,Non-Vegetarian,Breakfast,1 bowl,30.0,North Indian
+Cucumber Raita,"Yogurt, Cucumber, Spices",80,8.0,5.0,3.0,Vegetarian,Lunch/Snack,1 bowl,20.0,North Indian
+Sauteed Vegetables,"Mixed Vegetables, Olive Oil, Spices",150,15.0,5.0,8.0,Vegetarian,Lunch/Dinner,1 bowl,30.0,North Indian
+Multigrain Millet Vegetable Khichdi,"Multigrain Millet, Vegetables, Lentils, Spices",280,35.0,12.0,8.0,Vegetarian,Lunch,1 bowl,45.0,North Indian
+Curd,Yogurt,120,8.0,12.0,5.0,Vegetarian,Breakfast/Snack,1 cup,25.0,North Indian
+Paneer Bhurji,"Paneer, Onion, Tomato, Spices",220,8.0,15.0,15.0,Vegetarian,Breakfast,1 bowl,40.0,North Indian
+Low-fat Yogurt,Low-fat Yogurt,100,10.0,10.0,2.0,Vegetarian,Breakfast/Snack,1 cup,30.0,North Indian
+Sprout Salad,"Mixed Sprouts, Onion, Tomato, Cucumber, Lemon Juice",150,20.0,8.0,4.0,Vegetarian,Snack,1 bowl,30.0,North Indian
+Roasted Chickpeas,"Chickpeas, Spices, Oil",180,25.0,8.0,5.0,Vegetarian,Snack,1/2 cup,30.0,North Indian
+Mixed Vegetable Sabzi,"Mixed Vegetables, Onion, Tomato, Spices",200,25.0,7.0,8.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Broccoli Cauliflower Sabzi,"Broccoli, Cauliflower, Spices",150,15.0,5.0,8.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Cauliflower Whole Grain Toast (with Almond Butter or Avocado),"Cauliflower, Whole Grain Toast, Almond Butter/Avocado, Spices",250,25.0,10.0,12.0,Vegetarian,Breakfast,1 slice,45.0,North Indian
+Baked Sweet Potatoes,"Sweet Potatoes, Spices",150,30.0,3.0,2.0,Vegetarian,Snack,1 medium,30.0,North Indian
+Whey Protein Shake,"Whey Protein, Milk/Water",150,5.0,25.0,2.0,Vegetarian,Post-Workout,1 shake,50.0,North Indian
+Dextrose Monohydrate (Post-Workout),Dextrose Monohydrate,100,25.0,0.0,0.0,Vegetarian,Post-Workout,1 serving,20.0,North Indian
+Avocado and White Bean Salad (with Cheese Dressing),"Avocado, White Beans, Cheese, Lettuce, Olive Oil, Lemon Juice",300,20.0,15.0,20.0,Vegetarian,Lunch,1 bowl,55.0,North Indian
+Chicken Broccoli Salad (with Flax Oil Dressing),"Chicken, Broccoli, Lettuce, Flax Oil, Lemon Juice",250,10.0,25.0,12.0,Non-Vegetarian,Lunch,1 bowl,60.0,North Indian
+Tandoori Chicken,"Chicken, Yogurt, Spices",250,3.0,27.0,13.0,Non-Vegetarian,Dinner,2 pieces,80.0,North Indian
+Lauki Kofta,"Bottle Gourd, Gram Flour, Spices",250,20.0,8.0,15.0,Vegetarian,Lunch,1 bowl,40.0,North Indian
+Paneer Tikka,"Paneer, Yogurt, Spices",280,12.0,18.0,20.0,Vegetarian,Dinner,6 pieces,90.0,North Indian
+Mixed Bean Sabzi,"Mixed Beans, Onion, Tomato, Spices",200,25.0,10.0,5.0,Vegetarian,Lunch,1 bowl,35.0,North Indian
+Chickpea Salad,"Chickpeas, Onion, Tomato, Cucumber, Lemon Juice",180,25.0,10.0,4.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Lentil Soup (Dal),"Lentils, Spices",200,30.0,12.0,5.0,Vegetarian,Lunch,1 bowl,30.0,North Indian
+Grilled Chicken Breast,"Chicken Breast, Spices",165,0.0,31.0,3.6,Non-Vegetarian,Dinner,1 breast,70.0,North Indian
+Cottage Cheese (Paneer),Paneer,265,4.0,28.0,15.0,Vegetarian,Snack,100 grams,50.0,North Indian
+Greek Yogurt Parfait,"Greek Yogurt, Fruits, Granola",250,30.0,15.0,8.0,Vegetarian,Breakfast,1 parfait,45.0,North Indian
+Oats Porridge,"Oats, Milk, Sugar/Honey",150,25.0,5.0,3.0,Vegetarian,Breakfast,1 bowl,30.0,North Indian
+Sweet Potato Chaat,"Sweet Potato, Spices, Lemon Juice",180,30.0,3.0,5.0,Vegetarian,Snack,1 bowl,30.0,North Indian
+"Fruit Salad (Banana, apple, mango,blueberry) ","Banana, apple, mango,blueberry",120,30.0,2.0,1.0,vegetarian,Snack,1 bowl,60.0,North Indian
+Basmati Rice,"Basmati Rice, Water",220,45.0,5.0,2.0,Vegetarian,Lunch,1 cup cooked,30.0,North Indian
+Quinoa Pulao,"Quinoa, Vegetables, Spices",250,35.0,10.0,8.0,Vegetarian,Lunch,1 bowl,45.0,North Indian

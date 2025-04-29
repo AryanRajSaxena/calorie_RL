@@ -1,0 +1,16 @@
+meal_name,ingredients,calories_per_serving,carbs,proteins,fats,diet_type,meal_time,serving_size,region,cost_per_serving_in_inr
+Paneer Tikka,"Paneer, Yogurt, Spices",280,12,18,20,Vegetarian,Dinner,"6 pieces",North India,90
+Dal Tadka,"Yellow Lentils, Onion, Tomato, Spices",210,36,8,6,Vegetarian,Lunch,"1 bowl",North India,60
+Mixed Bean Sabzi,"Mixed Beans, Onion, Tomato, Spices",200,25,10,5,Vegetarian,Lunch,"1 bowl",North India,35
+Chickpea Salad,"Chickpeas, Onion, Tomato, Cucumber, Lemon Juice",180,25,10,4,Vegetarian,Lunch,"1 bowl",Pan India,30
+Lentil Soup (Dal),"Lentils, Spices",200,30,12,5,Vegetarian,Lunch,"1 bowl",Pan India,30
+Grilled Chicken Breast,"Chicken Breast, Spices",165,0,31,3.6,Non-Vegetarian,Dinner,"1 breast",Pan India,70
+Cottage Cheese (Paneer),"Paneer",265,4,28,15,Vegetarian,Snack,"100 grams",North India,50
+Greek Yogurt Parfait,"Greek Yogurt, Fruits, Granola",250,30,15,8,Vegetarian,Breakfast,"1 parfait",Pan India,45
+Oats Porridge,"Oats, Milk, Sugar/Honey",150,25,5,3,Vegetarian,Breakfast,"1 bowl",Pan India,30
+Sweet Potato Chaat,"Sweet Potato, Spices, Lemon Juice",180,30,3,5,Vegetarian,Snack,"1 bowl",Pan India,30
+Fruit Salad (Banana, Apple, Blueberries, Mango),"Banana, Apple, Blueberries, Mango",120,30,2,1,Vegetarian,Snack,"1 bowl",Pan India,30
+Basmati Rice,"Basmati Rice, Water",220,45,5,2,Vegetarian,Lunch,"1 cup cooked",Pan India,30
+Quinoa Pulao,"Quinoa, Vegetables, Spices",250,35,10,8,Vegetarian,Lunch,"1 bowl",Pan India,45
+Whey Protein Shake,"Whey Protein, Milk/Water",150,5,25,2,Vegetarian,Post-Workout,"1 shake",Pan India,50
+Lauki Kofta,"Bottle Gourd, Gram Flour, Spices",250,20,8,15,Vegetarian,Lunch,"1 bowl",North India,40
